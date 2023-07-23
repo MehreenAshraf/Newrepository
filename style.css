@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+    font-family: arial;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: verdana;
+    text-align: center;
+	
+}
+
+.maindiv {
+    background-color: #151a13;
+    color: white;
+    width: 300px;
+    padding: 100px;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 200px;
+}

@@ -1,2 +1,1 @@
-# Newrepository
-THis is my first project
+# coding-project-template
